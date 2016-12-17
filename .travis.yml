@@ -1,5 +1,8 @@
 language: php
 
+addons:
+    postgresql: "9.6"
+
 php:
   - 5.3
   - 5.4
