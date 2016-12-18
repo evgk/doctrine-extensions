@@ -1,9 +1,6 @@
 language: php
 
 sudo: required
-dist: trusty
-
-sudo: required
 
 services:
   - docker
